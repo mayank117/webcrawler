@@ -1,0 +1,18 @@
+
+
+<link rel="alternate" href="https://www.sample.com/" hreflang="x-default"/>
+<link rel="alternate" href="https://www.sample.com/en-IN/" hreflang="en-in"/>
+<link rel="alternate" href="https://www.sample.com/en-CN/" hreflang="en-cn"/>
+<link rel="alternate" href="https://www.sample.com/en-FR/" hreflang="en-fr"/>
+<link rel="alternate" href="https://www.sample.com/en-BR/" hreflang="en-br"/>
+<link rel="alternate" href="https://www.sample.com/en-KR/" hreflang="en-kr"/>
+<link rel="alternate" href="https://www.sample.com/en-CA/" hreflang="en-ca"/>
+<link rel="alternate" href="https://www.sample.com/en-AU/" hreflang="en-au"/>
+<link rel="alternate" href="https://www.sample.com/en-US/" hreflang="en-us"/>
+<link rel="alternate" href="https://www.sample.com/en-UKI/" hreflang="en-uk"/>
+
+
+ <img data-toggle="modal" data-target="#favourite-articles" src="https://www.sample.com/etc/designs/nexus/images/header/heart.png" alt=""/>
+ <button type="button" class="close" data-dismiss="modal"><img src="https://www.sample.com/etc/designs/nexus/images/pop-up/popup-close.png"></button>
+ 
+
